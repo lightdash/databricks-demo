@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: users
+    columns:
+      - name: id
+      - name: carat
+      - name: cut
+      - name: color
