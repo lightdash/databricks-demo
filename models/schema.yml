@@ -16,8 +16,8 @@ models:
       - name: cut
       - name: is_premium
       - name: price
-      - name: arr,
+      - name: arr
       - name: created_at
       - name: date_created_at
-      - name: some_bin,
+      - name: some_bin
       - name: weird_object
