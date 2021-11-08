@@ -8,16 +8,16 @@ models:
       - name: carat_int
       - name: carat_dec
       - name: carat_float
-      - name: carat_tinyint,
-      - name: table_bigint,
-      - name: approx_carat,
+      - name: carat_tinyint
+      - name: table_bigint
+      - name: approx_carat
       - name: table
         quote: true
       - name: cut
       - name: is_premium
       - name: price
       - name: arr,
-      - name: created_at,
-      - name: date_created_at,
+      - name: created_at
+      - name: date_created_at
       - name: some_bin,
       - name: weird_object
