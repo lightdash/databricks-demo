@@ -4,6 +4,10 @@ models:
   - name: users
     columns:
       - name: id
+        meta:
+          metrics:
+            diamound_count:
+              type: count_distinct
       - name: carat
       - name: carat_int
       - name: carat_dec
